@@ -1,0 +1,26 @@
+_repo: Martjie_65991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Celliers, Jan François Elias
+    aliases:
+    - Celliers, Jan Francois Elias
+    - Celliers, Johannes François Elias
+    - Celliers, Jan F. E.
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '41620'
+    url: http://www.gutenberg.org/2009/agents/41620
+description: ''
+gutenberg_issued: '2021-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65991'
+language: af
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Martjie
+url: http://www.gutenberg.org/ebooks/65991
